@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+![MasterHead](https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif)
 <h1 align="center">Hi 👋, I'm Vansh Gusain</h1>
 <h3 align="center">An enthusiastic new frontend developer, eager to learn and create!</h3>
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/564x/40/6b/51/406b510d40fc33ef94e2f9579c136fe8.jpg">
