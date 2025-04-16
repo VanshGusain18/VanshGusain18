@@ -10,7 +10,7 @@
 
 - 🔭 I am an **undergraduate student pursuing Computer Science.**
 
-- 🌱 I’m currently learning **Frontend Web development**
+- 🌱 Full-stack developer building dynamic web apps with the **MERN** stack
 
 - 📫 How to reach me **vanshgusain18@gmail.com**
 
