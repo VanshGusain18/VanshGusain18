@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif)
 <h2 align="center">Hey! <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" style="height:25px;" height="25"/> I'm Vansh Gusain.</h2>
-<h3 align="center">An enthusiastic new frontend developer, eager to learn and create!</h3>
+<h3 align="center">An enthusiastic web developer, eager to learn and create!</h3>
 
 [![](https://visitcount.itsvg.in/api?id=vanshgusain18&icon=0&color=3)](https://visitcount.itsvg.in)
 
